@@ -1,0 +1,14 @@
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.deps.json
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.runtimeconfig.json
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.runtimeconfig.dev.json
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.dll
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.csprojAssemblyReference.cache
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.csproj.CoreCompileInputs.cache
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.RazorAssemblyInfo.cache
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.RazorAssemblyInfo.cs
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.AssemblyInfoInputs.cache
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.AssemblyInfo.cs
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.RazorTargetAssemblyInfo.cache
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\bin\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.pdb
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.dll
+C:\Users\40956998844\Documents\SPRINT_2\Visual-Studio\Api\Personagens\Senai.Personagens.WebApiI.Manha\Senai.Personagens.WebApiI.Manha\obj\Debug\netcoreapp2.1\Senai.Personagens.WebApiI.Manha.pdb
